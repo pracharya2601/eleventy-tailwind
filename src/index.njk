@@ -1,0 +1,16 @@
+---
+name: "this is name"
+title: "Eleventy Portfolio"
+layout: "base.njk"
+---
+
+<h1>{{ title }} Home Page</h1>
+
+<h3>JSON Placeholder Data</h3>
+
+
+<ul>
+    {% for data in galleryData%}
+        <li>{{data.name}}</li>
+    {% endfor %}
+</ul>

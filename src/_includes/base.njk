@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {# font #}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  {# stylesheet #}
+  <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' }}">
+
+  {# title #}
+  <title>{{site.name}}{% if title %}  {{title}} {% endif %} </title>
+
+  {# description #}
+    <meta name="description" content="
+      {% if description %}
+        {{description}}
+      {% else %}
+        {{site.description}}
+      {% endif %}
+    "/>
+</head>
+<body class="antialiased">
+    {# {% include "partials/navigation.njk" %} #}
+    {% include "partials/newnavigation.njk" %}
+    <main class="main container">
+      {{ content | safe }}
+    </main>
+  <footer class="footer">
+  	<p>&copy; Master Mount Service 2022</p>
+  </footer>
+</body>
+</html>

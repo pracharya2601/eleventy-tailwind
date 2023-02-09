@@ -1,0 +1,24 @@
+---
+title: "Eleventy Portfolio"
+layout: "base.njk"
+pagination: 
+    data: "galleryData"
+    size: "2"
+    alias: "galleryData"
+---
+
+<div>
+    <h2>Services</h2>
+    <ul>
+    {% for data in galleryData%}
+            <li class="border p-2 mb-1">{{data.name}}</li>
+        {% endfor %}
+    </ul>
+    <div>
+        <ul>
+            <li>{% if pagination.href.previous%}<a href="{{pagination.href.previous}}">Previous</a>{%endif%}</li>
+            <li>{% if pagination.href.next%}<a href="{{pagination.href.next}}">Next</a>{%endif%}</li>
+        </ul>
+    
+    </div>
+</div>

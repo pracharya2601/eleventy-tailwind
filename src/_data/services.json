@@ -1,0 +1,129 @@
+[
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"TV Mounting",
+                "identifier": "tv-mounting",
+                "description": "TV Wall Mounting TV Mounting Services Professional TV Installation TV Wall Mount Installation Expert TV Mounting Contractors TV Mounting on Various Surfaces TV Mounting Near Me Safe and Secure TV Mounting Modern TV Mounting Technology TV Wall Mounting Services TV Installation Services TV Mounting Expertise",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Ftv-mouunt.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/tv-mounting",
+                "itemListElement":[
+                    {
+                       "@type":"Offer",
+                       "itemOffered":{
+                          "@type":"Service",
+                          "name":"55 inch and below TV mounting for $89.99 in less than 45 min"
+                       }
+                    },
+                    {
+                       "@type":"Offer",
+                       "itemOffered":{
+                          "@type":"Service",
+                          "name":" 65 inch tv mounting, tv wall mount for $89.99 to $179.99 in less than 1hr"
+                       }
+                    },
+                    {
+                       "@type":"Offer",
+                       "itemOffered":{
+                          "@type":"Service",
+                          "name":"75 inch TV wall install just for $159.99 in less than 1hr"
+                       }
+                    },
+                    {
+                       "@type":"Offer",
+                       "itemOffered":{
+                          "@type":"Service",
+                          "name":"$189.99: 65 in - 75 in & above, 1hr"
+                       }
+                    }
+                 ]
+            },
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"Wiring Concealment",
+                "identifier": "wiring-Concealmentg",
+                "description": "Wiring Concealment Services Professional Wiring Concealment Expert Wiring Concealment Contractors Modern Wiring Concealment Technology Wiring Concealment on Various Surfaces Safe and Secure Wiring Concealment Affordable Wiring Concealment Quality Wiring Concealment Services Wiring Concealment Near Me Wiring Concealment Expertise",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Fwiring.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/wiring-Concealment",
+                "itemListElement":[
+                   {
+                      "@type":"Offer",
+                      "itemOffered":{
+                         "@type":"Service",
+                         "name":"$39.99: Regular wire concealment, 30 mins"
+                      }
+                   },
+                   {
+                      "@type":"Offer",
+                      "itemOffered":{
+                         "@type":"Service",
+                         "name":"$79.99: Wire hiding, 1hr"
+                      }
+                   }
+                ]
+            },
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"Accessories purchase",
+                "identifier": "accessories-purchase",
+                "description": "Accessories purchase for tv mount, wire hiding, and other handy installation.",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Facessories.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/accessories-purchase"
+            },
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"Recycle Service",
+                "identifier": "recycle-service",
+                "description": " Convenient and Affordable electronic Recycle Service",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Frecycle.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/recycle-service",
+                "itemListElement":[
+                   {
+                      "@type":"Offer",
+                      "itemOffered":{
+                         "@type":"Service",
+                         "name":"$39.99: 30 minutes"
+                      }
+                   }
+                ]
+            },
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"Projector and Projection Screen",
+                "identifier": "projector-and-projector-screen",
+                "description": "Projector and Projection Screen Services Professional Projector and Projection Screen Installation Expert Projector and Projection Screen Contractors Modern Projector and Projection Screen Technology Projector and Projection Screen on Various Surfaces Safe and Secure Projector and Projection Screen Installation",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Fprojector.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/projector-and-projector-screen",
+                "itemListElement":[
+                   {
+                      "@type":"Offer",
+                      "itemOffered":{
+                         "@type":"Service",
+                         "name":"$89.99: 30 minutes"
+                      }
+                   }
+                ]
+            },
+            {
+                "@context":"https://schema.org/",
+                "@type":"OfferCatalog",
+                "name":"Sound system installation",
+                "identifier": "sound-system",
+                "description": "TV mounting with sound system installation, sound system with the TV display complete the package",
+                "image": "https://mastermountservice.com/_next/image?url=%2Fimages%2Fsound-system.jpg&w=2048&q=75",
+                "url": "https://mastermountservice.com/services/sound-system",
+                "itemListElement":[
+                   {
+                      "@type":"Offer",
+                      "itemOffered":{
+                         "@type":"Service",
+                         "name":"$99.99: 30 minutes"
+                      }
+                   }
+                ]
+             }
+        ]

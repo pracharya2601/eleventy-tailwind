@@ -1,0 +1,18 @@
+{
+    "left": [
+        "about",
+        "services",
+        "gallery",
+        "reviews",
+        "connect"
+    ],
+    "navleft": [
+        {"name": "about","href": "/#about"},
+        {"name": "services","href": "/#services"},
+        {"name": "gallery","href": "/gallery"},
+        {"name": "reviews","href": "/#reviews"},
+        {"name": "connect","href": "/#connect"}
+    ],
+    "home": "Master Mount Service",
+    "right": "Book Now"
+}
